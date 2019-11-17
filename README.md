@@ -1,3 +1,25 @@
+##Switch v4
+
+Switch and routue in react router doesnt work
+
+  <Switch>
+        <Route exact path="/">
+          <Productlist></Productlist>
+        </Route>
+  
+  this is the way to makeit work.  !!!
+  
+  
+  
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
