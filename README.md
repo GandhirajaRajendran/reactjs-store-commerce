@@ -2,10 +2,10 @@
 
 Switch and routue in react router doesnt work
 
-  <Switch>
+  " <Switch>
         <Route exact path="/">
           <Productlist></Productlist>
-        </Route>
+        </Route> "
   
   this is the way to makeit work.  !!!
   
